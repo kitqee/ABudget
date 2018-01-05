@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ABudget</string>
+    <string name="action_add">Добавить</string>
+    <string name="quantity">Количество</string>
+    <string name="name">Товар</string>
+    <string name="cost">Стоимость</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="action_analysis">Анализ</string>
+    <string name="calc">Посчитать</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="stop_alarm">Стоп</string>
+    <string name="start_alarm">Старт</string>
+    <string name="edit_text_hint">Ввод времени</string>
+    <string name="hours">Часы</string>
+    <string name="minutes">Минуты</string>
+    <string name="seconds">Секунды</string>
+    <string name="label">Выбрать тип:</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
