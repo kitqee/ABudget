@@ -20,6 +20,11 @@
             android:id="@+id/nav_manage"
             android:icon="@drawable/ic_menu_manage"
             android:title="Напоминание" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_share"
+            android:title="О разработчике" />
+
     </group>
 
 
